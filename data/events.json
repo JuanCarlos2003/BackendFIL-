@@ -1,0 +1,434 @@
+[
+    {
+        "id": 1,
+        "hora": "9:00 AM",
+        "fecha": "2024-11-25",
+        "titulo": "Inauguración",
+        "descripcion": "Discurso de bienvenida",
+        "lugar": "Auditorio Principal"
+    },
+    {
+        "id": 2,
+        "hora": "9:00 AM",
+        "fecha": "2024-11-26",
+        "titulo": "Lectura de Cuentos",
+        "descripcion": "Para niños de 4 a 6 años",
+        "lugar": "Zona Infantil"
+    },
+    {
+        "id": 3,
+        "hora": "9:00 AM",
+        "fecha": "2024-11-27",
+        "titulo": "Taller de Caligrafía",
+        "descripcion": "Aprende caligrafía artística",
+        "lugar": "Sala de Talleres"
+    },
+    {
+        "id": 4,
+        "hora": "9:00 AM",
+        "fecha": "2024-11-28",
+        "titulo": "Conferencia de Autor",
+        "descripcion": "Por Isabel Allende",
+        "lugar": "Auditorio Principal"
+    },
+    {
+        "id": 5,
+        "hora": "9:00 AM",
+        "fecha": "2024-11-29",
+        "titulo": "Lectura de Poesía",
+        "descripcion": "Autores locales",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 6,
+        "hora": "9:00 AM",
+        "fecha": "2024-11-30",
+        "titulo": "Exhibición de Libros Antiguos",
+        "descripcion": "Historia de la imprenta",
+        "lugar": "Galería"
+    },
+    {
+        "id": 7,
+        "hora": "9:00 AM",
+        "fecha": "2024-12-01",
+        "titulo": "Charla sobre Publicación",
+        "descripcion": "Cómo autopublicar tu libro",
+        "lugar": "Sala de Talleres"
+    },
+    {
+        "id": 8,
+        "hora": "9:00 AM",
+        "fecha": "2024-12-02",
+        "titulo": "Presentación de Libro",
+        "descripcion": "Nuevo libro de Laura Sánchez",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 9,
+        "hora": "9:00 AM",
+        "fecha": "2024-12-03",
+        "titulo": "Taller de Escritura",
+        "descripcion": "Escribir tu primera novela",
+        "lugar": "Sala de Talleres"
+    },
+    {
+        "id": 10,
+        "hora": "11:00 AM",
+        "fecha": "2024-11-25",
+        "titulo": "Firma de Libros",
+        "descripcion": "María García",
+        "lugar": "Stand 5"
+    },
+    {
+        "id": 11,
+        "hora": "11:00 AM",
+        "fecha": "2024-11-26",
+        "titulo": "Taller de Ilustración",
+        "descripcion": "Para niños",
+        "lugar": "Zona Infantil"
+    },
+    {
+        "id": 12,
+        "hora": "11:00 AM",
+        "fecha": "2024-11-27",
+        "titulo": "Conferencia: Ciencia Ficción",
+        "descripcion": "Impacto en la sociedad",
+        "lugar": "Auditorio Principal"
+    },
+    {
+        "id": 13,
+        "hora": "11:00 AM",
+        "fecha": "2024-11-28",
+        "titulo": "Debate Literario",
+        "descripcion": "Literatura vs. Cine",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 14,
+        "hora": "11:00 AM",
+        "fecha": "2024-11-29",
+        "titulo": "Taller de Poesía",
+        "descripcion": "Escritura creativa",
+        "lugar": "Sala de Talleres"
+    },
+    {
+        "id": 15,
+        "hora": "11:00 AM",
+        "fecha": "2024-11-30",
+        "titulo": "Lectura de Cuentos",
+        "descripcion": "Para adolescentes",
+        "lugar": "Zona Infantil"
+    },
+    {
+        "id": 16,
+        "hora": "11:00 AM",
+        "fecha": "2024-12-01",
+        "titulo": "Charla sobre Edición",
+        "descripcion": "Proceso editorial",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 17,
+        "hora": "11:00 AM",
+        "fecha": "2024-12-02",
+        "titulo": "Firma de Libros",
+        "descripcion": "Carlos López",
+        "lugar": "Stand 7"
+    },
+    {
+        "id": 18,
+        "hora": "11:00 AM",
+        "fecha": "2024-12-03",
+        "titulo": "Presentación de Novela",
+        "descripcion": "Última obra de Julio Martínez",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 19,
+        "hora": "2:00 PM",
+        "fecha": "2024-11-25",
+        "titulo": "Charla sobre Fantasía",
+        "descripcion": "Creación de mundos",
+        "lugar": "Auditorio Principal"
+    },
+    {
+        "id": 20,
+        "hora": "2:00 PM",
+        "fecha": "2024-11-26",
+        "titulo": "Taller de Teatro",
+        "descripcion": "Interpretación de textos",
+        "lugar": "Sala de Talleres"
+    },
+    {
+        "id": 21,
+        "hora": "2:00 PM",
+        "fecha": "2024-11-27",
+        "titulo": "Lectura de Poesía",
+        "descripcion": "Poesía contemporánea",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 22,
+        "hora": "2:00 PM",
+        "fecha": "2024-11-28",
+        "titulo": "Proyección de Documental",
+        "descripcion": "La vida de Gabriel García Márquez",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 23,
+        "hora": "2:00 PM",
+        "fecha": "2024-11-29",
+        "titulo": "Firma de Libros",
+        "descripcion": "Lucía Fernández",
+        "lugar": "Stand 3"
+    },
+    {
+        "id": 24,
+        "hora": "2:00 PM",
+        "fecha": "2024-11-30",
+        "titulo": "Charla sobre Ciencia",
+        "descripcion": "Ciencia y literatura",
+        "lugar": "Auditorio Principal"
+    },
+    {
+        "id": 25,
+        "hora": "2:00 PM",
+        "fecha": "2024-12-01",
+        "titulo": "Lectura Dramatizada",
+        "descripcion": "Grupo de teatro local",
+        "lugar": "Auditorio Principal"
+    },
+    {
+        "id": 26,
+        "hora": "2:00 PM",
+        "fecha": "2024-12-02",
+        "titulo": "Presentación de Libro",
+        "descripcion": "Antología de cuentos",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 27,
+        "hora": "2:00 PM",
+        "fecha": "2024-12-03",
+        "titulo": "Conferencia: Ficción Histórica",
+        "descripcion": "Escribir sobre el pasado",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 28,
+        "hora": "4:00 PM",
+        "fecha": "2024-11-25",
+        "titulo": "Lectura de Cuentos",
+        "descripcion": "Para jóvenes",
+        "lugar": "Zona Infantil"
+    },
+    {
+        "id": 29,
+        "hora": "4:00 PM",
+        "fecha": "2024-11-26",
+        "titulo": "Presentación de Poemario",
+        "descripcion": "Nuevo libro de Ana Torres",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 30,
+        "hora": "4:00 PM",
+        "fecha": "2024-11-27",
+        "titulo": "Debate sobre Literatura",
+        "descripcion": "Literatura digital vs. impresa",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 31,
+        "hora": "4:00 PM",
+        "fecha": "2024-11-28",
+        "titulo": "Taller de Cuentacuentos",
+        "descripcion": "Para padres e hijos",
+        "lugar": "Zona Infantil"
+    },
+    {
+        "id": 32,
+        "hora": "4:00 PM",
+        "fecha": "2024-11-29",
+        "titulo": "Charla sobre Crítica Literaria",
+        "descripcion": "Cómo reseñar libros",
+        "lugar": "Sala de Talleres"
+    },
+    {
+        "id": 33,
+        "hora": "4:00 PM",
+        "fecha": "2024-11-30",
+        "titulo": "Firma de Libros",
+        "descripcion": "Antonio Ruiz",
+        "lugar": "Stand 4"
+    },
+    {
+        "id": 34,
+        "hora": "4:00 PM",
+        "fecha": "2024-12-01",
+        "titulo": "Lectura de Ensayo",
+        "descripcion": "Ensayos contemporáneos",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 35,
+        "hora": "4:00 PM",
+        "fecha": "2024-12-02",
+        "titulo": "Charla sobre Poesía",
+        "descripcion": "Poesía y sociedad",
+        "lugar": "Auditorio Principal"
+    },
+    {
+        "id": 36,
+        "hora": "4:00 PM",
+        "fecha": "2024-12-03",
+        "titulo": "Presentación de Libro",
+        "descripcion": "Biografía de un autor",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 37,
+        "hora": "6:00 PM",
+        "fecha": "2024-11-25",
+        "titulo": "Proyección de Película",
+        "descripcion": "Adaptación de novela",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 38,
+        "hora": "6:00 PM",
+        "fecha": "2024-11-26",
+        "titulo": "Lectura de Dramatizaciones",
+        "descripcion": "Escenas de libros",
+        "lugar": "Auditorio Principal"
+    },
+    {
+        "id": 39,
+        "hora": "6:00 PM",
+        "fecha": "2024-11-27",
+        "titulo": "Conferencia: Literatura Juvenil",
+        "descripcion": "Tendencias y autores",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 40,
+        "hora": "6:00 PM",
+        "fecha": "2024-11-28",
+        "titulo": "Debate: Literatura Clásica",
+        "descripcion": "Relevancia en la actualidad",
+        "lugar": "Auditorio Principal"
+    },
+    {
+        "id": 41,
+        "hora": "6:00 PM",
+        "fecha": "2024-11-29",
+        "titulo": "Concierto de Música",
+        "descripcion": "Banda local",
+        "lugar": "Plaza Central"
+    },
+    {
+        "id": 42,
+        "hora": "6:00 PM",
+        "fecha": "2024-11-30",
+        "titulo": "Lectura de Ensayo",
+        "descripcion": "Ensayos literarios",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 43,
+        "hora": "6:00 PM",
+        "fecha": "2024-12-01",
+        "titulo": "Taller de Cuento",
+        "descripcion": "Escritura de cuentos",
+        "lugar": "Sala de Talleres"
+    },
+    {
+        "id": 44,
+        "hora": "6:00 PM",
+        "fecha": "2024-12-02",
+        "titulo": "Charla sobre Historia",
+        "descripcion": "Historia y literatura",
+        "lugar": "Auditorio Principal"
+    },
+    {
+        "id": 45,
+        "hora": "6:00 PM",
+        "fecha": "2024-12-03",
+        "titulo": "Lectura de Poesía",
+        "descripcion": "Autoras mujeres",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 46,
+        "hora": "8:00 PM",
+        "fecha": "2024-11-25",
+        "titulo": "Clausura del Día",
+        "descripcion": "Actividades de cierre",
+        "lugar": "Auditorio Principal"
+    },
+    {
+        "id": 47,
+        "hora": "8:00 PM",
+        "fecha": "2024-11-26",
+        "titulo": "Concierto de Poesía",
+        "descripcion": "Poesía y música",
+        "lugar": "Plaza Central"
+    },
+    {
+        "id": 48,
+        "hora": "8:00 PM",
+        "fecha": "2024-11-27",
+        "titulo": "Lectura de Novela",
+        "descripcion": "Autor invitado",
+        "lugar": "Auditorio Principal"
+    },
+    {
+        "id": 49,
+        "hora": "8:00 PM",
+        "fecha": "2024-11-28",
+        "titulo": "Conferencia de Autor",
+        "descripcion": "Por Mario Vargas Llosa",
+        "lugar": "Auditorio Principal"
+    },
+    {
+        "id": 50,
+        "hora": "8:00 PM",
+        "fecha": "2024-11-29",
+        "titulo": "Proyección de Película",
+        "descripcion": "Adaptación de novela",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 51,
+        "hora": "8:00 PM",
+        "fecha": "2024-11-30",
+        "titulo": "Lectura de Ensayo",
+        "descripcion": "Temas sociales",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 52,
+        "hora": "8:00 PM",
+        "fecha": "2024-12-01",
+        "titulo": "Conferencia: Literatura Infantil",
+        "descripcion": "Importancia y tendencias",
+        "lugar": "Sala de Conferencias"
+    },
+    {
+        "id": 53,
+        "hora": "8:00 PM",
+        "fecha": "2024-12-02",
+        "titulo": "Debate Literario",
+        "descripcion": "Literatura y política",
+        "lugar": "Auditorio Principal"
+    },
+    {
+        "id": 54,
+        "hora": "8:00 PM",
+        "fecha": "2024-12-03",
+        "titulo": "Cierre de actividades",
+        "descripcion": "Despedida de la feria del libro 2024",
+        "lugar": "Auditorio Principal"
+    }
+]
